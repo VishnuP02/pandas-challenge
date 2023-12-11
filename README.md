@@ -3,3 +3,5 @@ Background: For this assignment, I had to put myself in a position as the new Ch
 
 Resources used in completion of challenge
     - Lecture Slides, Class Recordings, Tutoring session w/ Mark Fullton, and AskBCS sessions with Tristen Ortiz
+
+# Analysis
