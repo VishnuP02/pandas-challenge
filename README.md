@@ -5,3 +5,16 @@ Resources used in completion of challenge
     - Lecture Slides, Class Recordings, Tutoring session w/ Mark Fullton, and AskBCS sessions with Tristen Ortiz
 
 # Analysis
+- District Summary:
+
+- School Summary:
+
+- Top and Bottom Performing Schools:
+
+- Math and Reading Scores by Grade:
+
+- Scores by School Spending:
+
+- Scores by School Size:
+
+- Scores by School Type:
